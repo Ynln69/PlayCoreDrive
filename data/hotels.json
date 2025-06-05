@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "The Star Sydney",
+    "location": "Pyrmont, Sydney, NSW, Australia",
+    "description": "The Star Sydney is a world-class entertainment destination. Beyond its expansive casino, it boasts luxury hotel rooms and suites, an array of award-winning restaurants by renowned chefs, vibrant bars, a high-energy nightclub, and a serene spa. The complex offers stunning views of Darling Harbour and the city skyline, making it a landmark in Sydney's entertainment scene.",
+    "shortDescription": "Iconic entertainment complex and casino in Sydney.",
+    "images": [
+      "./img/hotels/hotelStar1.jpg",
+      "./img/hotels/hotelStar2.jpg",
+      "./img/hotels/hotelStar3.jpg",
+      "./img/hotels/hotelStar4.jpg"
+    ],
+    "gamingFacilities": [
+      "Extensive main casino floor with table games (Blackjack, Roulette, Baccarat, Craps, Poker variants)",
+      "Over 1,500 electronic gaming machines (pokies)",
+      "Dedicated Poker room hosting regular tournaments and cash games",
+      "VIP gaming salons (Sovereign Room, Inner Sanctum) for high rollers",
+      "Stadium Gaming - electronic table games with live dealers"
+    ],
+    "amenities": [
+      "Multiple luxury hotel accommodation options (The Star Grand Hotel, The Darling)",
+      "Over 20 restaurants and bars, including fine dining and casual eateries",
+      "The Star Event Centre for concerts and shows",
+      "Marquee Sydney nightclub",
+      "The Darling Spa - luxury spa and wellness treatments",
+      "Indoor and outdoor pools",
+      "Retail precinct with luxury brands"
+    ],
+    "eventIds": [101, 102, 107]
+  },
+  {
+    "id": 2,
+    "name": "Crown Melbourne",
+    "location": "Southbank, Melbourne, VIC, Australia",
+    "description": "Crown Melbourne is an iconic landmark in Melbourne, offering an unparalleled integrated resort experience. It features three world-class hotels, a vast casino, luxury shopping, acclaimed restaurants, lively bars, and spectacular entertainment venues, all situated on the picturesque Yarra River.",
+    "shortDescription": "Huge resort and casino on Melbourne's Yarra River.",
+    "images": [
+      "./img/hotels/hotelMelbourne1.jpg",
+      "./img/hotels/hotelMelbourne2.jpg",
+      "./img/hotels/hotelMelbourne3.jpg",
+      "./img/hotels/hotelMelbourne4.jpg"
+    ],
+    "gamingFacilities": [
+      "One of the largest casino floors in the Southern Hemisphere",
+      "Wide variety of table games including Blackjack, Roulette, Baccarat, Craps, Sic Bo, Pai Gow",
+      "Over 2,600 electronic gaming machines",
+      "Renowned Crown Poker Room, home to the Aussie Millions",
+      "Exclusive VIP gaming areas like the Mahogany Room",
+      "Teak Room for high-stakes Baccarat",
+      "Dedicated eSports zone (HyperX Esports Arena - check operational status)"
+    ],
+    "amenities": [
+      "Three luxury hotels: Crown Towers, Crown Metropol, Crown Promenade",
+      "Extensive list of fine dining and casual restaurants (e.g., Nobu, Rockpool Bar & Grill)",
+      "Numerous bars and nightclubs",
+      "Luxury retail shopping (Prada, Louis Vuitton, etc.)",
+      "The Palms at Crown entertainment venue",
+      "Crown Spa - world-class spa facilities",
+      "Multiple swimming pools and fitness centers",
+      "Village Cinemas Gold Class"
+    ],
+    "eventIds": [103, 106, 108]
+  },
+  {
+    "id": 3,
+    "name": "The Star Gold Coast",
+    "location": "Broadbeach, Gold Coast, QLD, Australia",
+    "description": "Located in the heart of Broadbeach, The Star Gold Coast is a premier leisure and entertainment destination. It offers luxurious hotel accommodation, a wide range of dining experiences, lively bars, a state-of-the-art theatre, and a vibrant casino, all set against the backdrop of Queensland's beautiful coastline.",
+    "shortDescription": "Resort and casino on the Gold Coast with great entertainment.",
+    "images": [
+      "./img/hotels/hotelCoast1.jpg",
+      "./img/hotels/hotelCoast2.jpg",
+      "./img/hotels/hotelCoast3.jpg",
+      "./img/hotels/hotelCoast4.jpg"
+    ],
+    "gamingFacilities": [
+      "Modern casino floor with a variety of table games",
+      "Over 1,400 electronic gaming machines",
+      "Poker room with regular tournaments",
+      "VIP gaming rooms (e.g., The Sovereign Room)",
+      "Outdoor gaming terrace"
+    ],
+    "amenities": [
+      "Multiple hotel towers including The Star Grand and The Darling Gold Coast",
+      "Award-winning restaurants (e.g., Kiyomi, Nineteen at The Star)",
+      "Stylish bars and lounges",
+      "Azure Spa & Fitness",
+      "Resort-style swimming pool",
+      "Theatre hosting live shows and concerts",
+      "Conference and event facilities"
+    ],
+    "eventIds": [105, 109]
+  },
+  {
+    "id": 4,
+    "name": "Crown Perth",
+    "location": "Burswood, Perth, WA, Australia",
+    "description": "Crown Perth is Western Australia's leading integrated resort, offering a combination of luxury accommodation, premium gaming facilities, fine dining, and world-class entertainment. Situated on the Swan River, it provides a picturesque setting for a comprehensive resort experience.",
+    "shortDescription": "Luxury resort and casino on the Swan River in Perth.",
+    "images": [
+      "./img/hotels/hotelCrown1.jpg",
+      "./img/hotels/hotelCrown2.jpg",
+      "./img/hotels/hotelCrown3.jpg",
+      "./img/hotels/hotelCrown4.jpg"
+    ],
+    "gamingFacilities": [
+      "24/7 casino operations",
+      "Wide selection of table games",
+      "Over 2,000 electronic gaming machines",
+      "Dedicated Poker room",
+      "Pearl Room for VIP gaming",
+      "Riviera Room for high-limit table games"
+    ],
+    "amenities": [
+      "Three hotels: Crown Towers Perth, Crown Metropol Perth, Crown Promenade Perth",
+      "Numerous restaurants and bars (e.g., Nobu, Rockpool Bar & Grill, Bistro Guillaume)",
+      "Crown Theatre hosting major productions",
+      "Nightclubs and live music venues",
+      "Crown Spa",
+      "Expansive lagoon-style pools",
+      "Convention centre and meeting facilities"
+    ],
+    "eventIds": [104, 110]
+  },
+  {
+    "id": 5,
+    "name": "Treasury Brisbane",
+    "location": "Brisbane, QLD, Australia",
+    "description": "Housed in two magnificent heritage buildings, Treasury Brisbane offers a unique boutique casino and hotel experience. It combines historical charm with modern gaming, luxury accommodation, and a selection of fine dining restaurants and bars in the heart of Brisbane city.",
+    "shortDescription": "Heritage casino and hotel in the heart of Brisbane.",
+    "images": [
+      "./img/hotels/hotelBrisbane1.jpg",
+      "./img/hotels/hotelBrisbane2.jpg",
+      "./img/hotels/hotelBrisbane3.jpg",
+      "./img/hotels/hotelBrisbane4.jpg"
+    ],
+    "gamingFacilities": [
+      "Casino spread across multiple levels of the historic Treasury Building",
+      "Table games including Blackjack, Roulette, Baccarat, Poker variants",
+      "Over 1,300 electronic gaming machines",
+      "Poker room",
+      "VIP gaming areas"
+    ],
+    "amenities": [
+      "Luxury hotel rooms and suites in the Treasury Hotel building",
+      "Multiple restaurants offering diverse cuisines",
+      "Several bars with unique atmospheres",
+      "Live entertainment",
+      "Function and event spaces"
+    ],
+    "eventIds": [111, 112]
+  }
+]

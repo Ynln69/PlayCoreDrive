@@ -1,0 +1,80 @@
+{
+  "promoBlocks": [
+    {
+      "id": "top-rated",
+      "title": "Top Rated Casino Hotels 2025",
+      "text": "Explore our curated list of the highest-rated casino hotels in Australia, combining luxurious stays with thrilling gaming action. We vet each hotel for quality, game variety, and overall guest experience.",
+      "image": "./img/promoHome/promo1.jpg"
+    },
+    {
+      "id": "esports-tournaments",
+      "title": "Upcoming eSports Tournaments",
+      "text": "Stay ahead of the game with our up-to-date listings of major eSports tournaments hosted at premier casino venues across Australia. From local showdowns to international championships.",
+      "image": "./img/promoHome/promo2.jpg"
+    },
+    {
+      "id": "why-choose",
+      "title": "Why Choose Casino Hotels for Gaming Events",
+      "text": "Casino hotels offer an unparalleled, all-in-one experience for gaming enthusiasts. Enjoy state-of-the-art gaming facilities, luxurious accommodations, fine dining, entertainment, and often, exclusive event spaces perfect for tournaments or large group visits. It's convenience and excitement rolled into one.",
+      "image": "./img/promoHome/promo3.jpg"
+    },
+    {
+      "id": "special-offers",
+      "title": "Special Offers for Gamers",
+      "text": "Discover exclusive deals and packages tailored for gamers. From discounted room rates during tournament weeks to complimentary casino credits and dining vouchers, we help you find the best value for your gaming getaway. Check back often for new promotions!",
+      "image": "./img/promoHome/promo4.jpg"
+    },
+    {
+      "id": "trusted-partners",
+      "title": "Our Trusted Partners",
+      "text": "We collaborate with leading names in the gaming and hospitality industry to bring you the most accurate and exciting information. (Logos of partners could be displayed here if available).",
+      "image": "./img/promoHome/promo5.jpg"
+    }
+  ],
+  "featuredEvents": [
+    {
+      "id": "event-sydney-poker",
+      "title": "Sydney Poker Championship Series",
+      "location": "The Star Sydney",
+      "date": "July 15, 2025",
+      "image": "./img/events/featuredEvent1.jpg",
+      "description": "Don't miss Australia's premier poker event! Compete for massive prize pools and prestige. Satellites running now.",
+      "detailsLink": "hotel.html?id=1#hotel-events-section"
+    },
+    {
+      "id": "event-melbourne-esports",
+      "title": "Crown Melbourne eSports Arena Nights",
+      "location": "Crown Melbourne",
+      "date": "September 25, 2025",
+      "image": "./img/events/featuredEvent2.jpg",
+      "description": "Witness top teams battle it out in popular eSports titles. An electrifying atmosphere guaranteed!",
+      "detailsLink": "hotel.html?id=2#hotel-events-section"
+    }
+  ],
+  "newsItems": [
+    {
+      "id": "news-001",
+      "title": "The Star Sydney Unveils New High-Limit Salon",
+      "date": "2025-06-01",
+      "image": "./img/news1.jpg",
+      "snippet": "The Star Sydney has officially opened its newly renovated 'Azure Salon', offering an exclusive high-stakes gaming experience with unparalleled service...",
+      "fullContent": "<p>The Star Sydney has officially opened its newly renovated 'Azure Salon', offering an exclusive high-stakes gaming experience with unparalleled service. The salon features private gaming rooms, dedicated hosts, and a curated selection of premium beverages and dining options.</p><p>A spokesperson for The Star mentioned, 'The Azure Salon is designed to cater to our most discerning guests, providing a luxurious and private environment for high-limit play. We've invested significantly in the design and amenities to ensure it meets the highest international standards.' Early reports suggest the new salon is already proving popular with VIP players.</p><p>The renovation is part of a broader multi-million dollar upgrade project at The Star Sydney, aimed at enhancing the overall guest experience across its gaming, dining, and accommodation offerings. More upgrades are expected to be announced later this year.</p>"
+    },
+    {
+      "id": "news-002",
+      "title": "Crown Melbourne Announces Dates for 2026 'Southern Cross Poker Open'",
+      "date": "2025-05-28",
+      "image": "./img/news2.jpg",
+      "snippet": "Poker enthusiasts can mark their calendars! Crown Melbourne has announced the preliminary dates for its much-anticipated 2026 'Southern Cross Poker Open'...",
+      "fullContent": "<p>Poker enthusiasts can mark their calendars! Crown Melbourne has announced the preliminary dates for its much-anticipated 2026 'Southern Cross Poker Open'. The series is expected to run from January 12th to February 2nd, 2026, promising a packed schedule of tournaments and significant prize pools.</p><p>While the full schedule is yet to be released, sources indicate that the Main Event will likely feature a multi-million dollar guarantee. 'The Southern Cross Poker Open is a cornerstone of our annual poker calendar, and we're excited to build on its success,' said a Crown Poker representative. 'We anticipate strong participation from both local and international players.'</p><p>Further details, including the full tournament schedule and satellite event information, are expected to be released in the coming months. Players are advised to check the official Crown Melbourne website for updates.</p>"
+    },
+    {
+      "id": "news-003",
+      "title": "New Study Highlights Growth of eSports Viewership in Australia",
+      "date": "2025-05-20",
+      "image": "./img/news3.jpg",
+      "snippet": "A recent study by OzPlay Insights reveals a significant surge in eSports viewership across Australia, with casino venues increasingly becoming popular hubs for live events...",
+      "fullContent": "<p>A recent study by OzPlay Insights reveals a significant surge in eSports viewership across Australia, with casino venues increasingly becoming popular hubs for live events. The report indicates a 25% year-on-year growth in Australians tuning into eSports broadcasts, and a notable increase in attendance at live tournaments.</p><p>The study suggests that the integration of eSports arenas within casino complexes, like those at Crown Melbourne and potentially other venues, is contributing to this trend by offering high-quality viewing experiences and attracting a diverse audience. 'The synergy between the excitement of eSports and the entertainment offerings of casino resorts is proving to be a winning combination,' commented Dr. Elara Vance, lead researcher for the study.</p><p>The findings also point to a growing demand for more local eSports tournaments and leagues, presenting an opportunity for casino hotels to further engage with this rapidly expanding market. The report is available for download from the OzPlay Insights website.</p>"
+    }
+  ]
+}

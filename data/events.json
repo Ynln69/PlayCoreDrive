@@ -1,0 +1,98 @@
+[
+  {
+    "id": 101,
+    "hotelId": 1,
+    "name": "Sydney Poker Championship Series",
+    "date": "2025-07-15",
+    "shortDescription": "Major poker tournament series at The Star Sydney.",
+    "fullDescription": "Join one of Australia's most prestigious poker series at The Star Sydney. This multi-week event features various buy-ins, satellite events, and large prize pools, attracting both professional and amateur players. Expect intense action and a vibrant atmosphere in their dedicated poker room."
+  },
+  {
+    "id": 102,
+    "hotelId": 1,
+    "name": "The Star Gaming Festival",
+    "date": "2025-08-01",
+    "shortDescription": "Monthly gaming festival with bonuses and prize draws at The Star Sydney.",
+    "fullDescription": "Experience the excitement at The Star Gaming Festival! Special promotions on slot machines and table games, prize draws, and exclusive offers for club members. Each month features a new theme, new games highlighted, and new chances to win big. Check their promotions page for monthly details."
+  },
+  {
+    "id": 103,
+    "hotelId": 2,
+    "name": "Aussie Millions Poker Championship (Conceptual)",
+    "date": "2026-01-10",
+    "shortDescription": "One of the Southern Hemisphere's most famous poker events at Crown Melbourne.",
+    "fullDescription": "The Aussie Millions Poker Championship (conceptual name for example, as real dates vary) is a legendary event that attracts top players from around the world to Crown Melbourne. This is a series of high-stakes tournaments with huge guarantees, culminating in a prestigious Main Event. *Note: Please check the official Crown Melbourne website for actual dates and events as this is a major international fixture.*"
+  },
+  {
+    "id": 104,
+    "hotelId": 4,
+    "name": "Crown Perth Gaming Showcase",
+    "date": "2025-10-05",
+    "shortDescription": "Showcase of new games and technologies at Crown Perth.",
+    "fullDescription": "Visit the Crown Perth Gaming Showcase to explore the latest innovations in the world of gaming. This event often features demonstrations of new slot machines, updates to electronic table games, and special introductory offers for visitors. A great way to see what's new on the casino floor."
+  },
+  {
+    "id": 105,
+    "hotelId": 3,
+    "name": "Gold Coast Slot Masters Tournament",
+    "date": "2025-11-20",
+    "shortDescription": "Exciting slot machine tournament at The Star Gold Coast.",
+    "fullDescription": "Try your luck in the Gold Coast Slot Masters Tournament at The Star Gold Coast! Compete for the grand prize and enjoy the thrilling atmosphere of competitive slot play. Regular qualifying rounds and attractive prize pools make this a popular event for slot enthusiasts."
+  },
+  {
+    "id": 106,
+    "hotelId": 2,
+    "name": "Crown Melbourne eSports Arena Nights",
+    "date": "2025-09-25",
+    "shortDescription": "Regular eSports tournaments and events at Crown Melbourne.",
+    "fullDescription": "Crown Melbourne frequently hosts eSports events in its dedicated arena (HyperX Esports Arena - check operational status). Keep an eye out for announcements of tournaments in popular games like League of Legends, CS:GO, Valorant, and others. These events often feature local and international talent. *Note: Please check the official Crown Melbourne website for current schedules.*"
+  },
+  {
+    "id": 107,
+    "hotelId": 1,
+    "name": "The Star Sydney Blackjack Challenge",
+    "date": "2025-09-05",
+    "shortDescription": "Test your skills in this high-stakes Blackjack tournament.",
+    "fullDescription": "The Star Sydney hosts regular Blackjack tournaments for enthusiasts of this classic card game. The Blackjack Challenge offers a competitive format with a significant prize pool. Strategy and skill are key to reaching the final table. Check their website for entry details and rules."
+  },
+  {
+    "id": 108,
+    "hotelId": 2,
+    "name": "Crown Melbourne Baccarat Tournament",
+    "date": "2025-11-10",
+    "shortDescription": "Elegant Baccarat tournament for discerning players.",
+    "fullDescription": "Experience the sophistication of a Baccarat tournament at Crown Melbourne. This event caters to players who appreciate the classic game of Baccarat, offering substantial prizes and an exclusive gaming environment. Often held in their premium gaming areas."
+  },
+  {
+    "id": 109,
+    "hotelId": 3,
+    "name": "The Star Gold Coast Roulette Championship",
+    "date": "2025-12-01",
+    "shortDescription": "Spin the wheel for big wins in this exciting Roulette tournament.",
+    "fullDescription": "Join the Roulette Championship at The Star Gold Coast. This tournament adds an extra layer of excitement to the classic game of chance, with players competing over several rounds to accumulate the most chips. A fun event for all Roulette lovers."
+  },
+  {
+    "id": 110,
+    "hotelId": 4,
+    "name": "Crown Perth Poker Series",
+    "date": "2025-08-15",
+    "shortDescription": "A premier poker series on the West Coast.",
+    "fullDescription": "The Crown Perth Poker Series brings together poker players from across Western Australia and beyond. Featuring a range of No-Limit Hold'em and Pot-Limit Omaha events, with buy-ins suitable for various bankrolls. A key event in the WA poker calendar."
+  },
+  {
+    "id": 111,
+    "hotelId": 5,
+    "name": "Treasury Brisbane Heritage Poker Classic",
+    "date": "2025-10-10",
+    "shortDescription": "Poker tournament in a unique heritage setting.",
+    "fullDescription": "Experience poker with a difference at the Treasury Brisbane Heritage Poker Classic. Held within the historic walls of the Treasury Casino, this tournament offers a unique atmosphere alongside competitive poker action. A must-play for those visiting Brisbane."
+  },
+  {
+    "id": 112,
+    "hotelId": 5,
+    "name": "Treasury Casino Members' Night",
+    "date": "2025-07-25",
+    "shortDescription": "Exclusive promotions and draws for Treasury Casino members.",
+    "fullDescription": "Treasury Casino regularly hosts Members' Nights with exclusive promotions, prize draws, and entertainment for their loyalty program members. A great way to get extra value and enjoy a special night out at the casino. Check their members' portal for specific dates and offers."
+  }
+]
