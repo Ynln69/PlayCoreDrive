@@ -1,32 +1,32 @@
 [
   {
     "title": "Summer Gaming Fest at Grand Royale",
-    "image": "/placeholder.svg?width=400&height=300",
+    "image": "./img/events/promoIdia1.jpg",
     "description": "Join us for a month-long celebration of gaming with special tournaments, bonus rewards, and live entertainment. Hosted at Grand Casino Hotel Royale.",
-    "hotelLogo": "/placeholder.svg?width=100&height=50"
+    "hotelLogo": "./img/logoHotel.png"
   },
   {
     "title": "eSports Bootcamp: Level Up Your Skills",
-    "image": "/placeholder.svg?width=400&height=300",
+    "image": "./img/events/promoIdia2.jpg",
     "description": "Intensive training sessions with pro gamers at Cybernetic Gaming Resort. Limited spots available! Learn strategies for top competitive games.",
-    "hotelLogo": "/placeholder.svg?width=100&height=50"
+    "hotelLogo": "./img/logoHotel.png"
   },
   {
     "title": "Vintage Casino Night",
-    "image": "/placeholder.svg?width=400&height=300",
+    "image": "./img/events/promoIdia3.jpg",
     "description": "Step back in time with classic casino games, live jazz music, and themed cocktails at The Gambler's Paradise Inn. Dress code: 1920s chic.",
-    "hotelLogo": "/placeholder.svg?width=100&height=50"
+    "hotelLogo": "./img/logoHotel.png"
   },
   {
     "title": "New VR Arcade Opening!",
-    "image": "/placeholder.svg?width=400&height=300",
+    "image": "./img/events/promoIdia4.jpg",
     "description": "Be the first to experience our cutting-edge VR arcade at Cybernetic Gaming Resort. Grand opening event with exclusive demos and prize giveaways.",
-    "hotelLogo": "/placeholder.svg?width=100&height=50"
+    "hotelLogo": "./img/logoHotel.png"
   },
   {
     "title": "High Roller's Poker Weekend",
-    "image": "/placeholder.svg?width=400&height=300",
+    "image": "./img/events/promoIdia5.jpg",
     "description": "Exclusive high-stakes poker games for discerning players. Enquire for details at Grand Casino Hotel Royale. Private tables and dedicated service.",
-    "hotelLogo": "/placeholder.svg?width=100&height=50"
+    "hotelLogo": "./img/logoHotel.png"
   }
 ]
