@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const currentPage = window.location.pathname.split("/").pop() || "index.html";
+  let   currentPage = window.location.pathname.split("/").pop();
+
+  if (!currentPage || currentPage === "index.html") {
+    currentPage = "./";
+  }
 
   // Mobile Navigation Toggle
   const navToggle = document.querySelector(".nav-toggle");
@@ -11,20 +15,15 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  const currentPath = window.location.pathname;
   const navItems = document.querySelectorAll("header nav ul.nav-links a");
   navItems.forEach((link) => {
     const linkPath = link.getAttribute("href");
-    if (
-      linkPath === currentPage ||
-      (currentPage === "index.html" &&
-        (linkPath === "/" || linkPath === "index.html"))
-    ) {
+    if (linkPath === currentPage) {
       link.classList.add("active");
     }
   });
 
-  if (currentPage === "index.html" || currentPage === "") {
+  if (currentPage === "./") {
     loadHomepageContent();
     loadHotels();
   } else if (currentPage === "hotel.html") {
