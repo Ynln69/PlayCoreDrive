@@ -1,32 +1,32 @@
 [
   {
-    "title": "Summer Gaming Fest at Grand Royale",
+    "title": "Summer Gaming Fest at The Star Sydney",
     "image": "./img/events/promoIdia1.jpg",
-    "description": "Join us for a month-long celebration of gaming with special tournaments, bonus rewards, and live entertainment. Hosted at Grand Casino Hotel Royale.",
-    "hotelLogo": "./img/logoHotel.png"
+    "description": "Dive into an exhilarating month-long gaming celebration at The Star Sydney. Featuring daily tournaments, exclusive bonus rewards, and nightly live entertainment. Meet top streamers and join community events in the heart of Australia's most iconic casino hotel.",
+    "hotelLogo": "./img/logo1.jpg"
   },
   {
     "title": "eSports Bootcamp: Level Up Your Skills",
     "image": "./img/events/promoIdia2.jpg",
-    "description": "Intensive training sessions with pro gamers at Cybernetic Gaming Resort. Limited spots available! Learn strategies for top competitive games.",
-    "hotelLogo": "./img/logoHotel.png"
+    "description": "Join our intensive gaming bootcamp hosted at Crown Melbourne, Australia's premier entertainment complex. Train with pro gamers, refine strategies for top-tier titles like Dota 2 and Valorant, and compete in in-house tournaments. Limited spots – a must for serious competitors!",
+    "hotelLogo": "./img/logo2.jpg"
   },
   {
-    "title": "Vintage Casino Night",
+    "title": "Vintage Casino Night at Wrest Point",
     "image": "./img/events/promoIdia3.jpg",
-    "description": "Step back in time with classic casino games, live jazz music, and themed cocktails at The Gambler's Paradise Inn. Dress code: 1920s chic.",
-    "hotelLogo": "./img/logoHotel.png"
+    "description": "Experience the charm of the Roaring Twenties at Wrest Point Hotel Casino in Hobart. Classic casino games, live jazz performances, themed cocktails, and a 1920s dress code await. Step into a night of elegance and timeless entertainment by Tasmania’s waterfront.",
+    "hotelLogo": "./img/logo3.jpg"
   },
   {
-    "title": "New VR Arcade Opening!",
+    "title": "New VR Arcade Launch at The Reef Hotel Casino",
     "image": "./img/events/promoIdia4.jpg",
-    "description": "Be the first to experience our cutting-edge VR arcade at Cybernetic Gaming Resort. Grand opening event with exclusive demos and prize giveaways.",
-    "hotelLogo": "./img/logoHotel.png"
+    "description": "Step into the future at The Reef Hotel Casino in Cairns with the grand opening of our cutting-edge VR arcade. Enjoy exclusive VR demos, game challenges, and prize giveaways while experiencing the newest in immersive gaming technology.",
+    "hotelLogo": "./img/logo4.jpg"
   },
   {
-    "title": "High Roller's Poker Weekend",
+    "title": "High Roller's Poker Weekend at Crown Perth",
     "image": "./img/events/promoIdia5.jpg",
-    "description": "Exclusive high-stakes poker games for discerning players. Enquire for details at Grand Casino Hotel Royale. Private tables and dedicated service.",
-    "hotelLogo": "./img/logoHotel.png"
+    "description": "An exclusive weekend for elite poker players at Crown Perth. Join private high-stakes tables, enjoy dedicated VIP service, and compete against Australia’s best. A luxurious poker experience in one of the country’s finest casino resorts.",
+    "hotelLogo": "./img/logo5.jpg"
   }
 ]
